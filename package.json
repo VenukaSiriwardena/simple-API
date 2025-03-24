@@ -1,0 +1,28 @@
+{
+  "name": "simple-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VenukaSiriwardena/simple-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/VenukaSiriwardena/simple-API/issues"
+  },
+  "homepage": "https://github.com/VenukaSiriwardena/simple-API#readme",
+  "devDependencies": {
+    "chai": "^5.2.0",
+    "mocha": "^11.1.0"
+  },
+  "dependencies": {
+    "axios": "^1.8.4"
+  }
+}
